@@ -55,8 +55,6 @@ https://github.com/user-attachments/assets/c38d92be-c775-438c-bcd2-f63da2ce6510
 
 ---
 
-## 📁 Project Structure
-
 ## 📂 Project Structure
 
 ```
