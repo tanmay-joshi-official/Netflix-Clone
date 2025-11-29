@@ -1,4 +1,4 @@
-# 📺 Netflix Homepage Clone — HTML & CSS (Fully Responsive)
+# 🎬 Netflix Homepage Clone — HTML & CSS (Fully Responsive)
 
 This is a **fully responsive Netflix Homepage UI Clone** built purely using **HTML and CSS**.  
 The goal of this project was to recreate the visual experience of the Netflix landing page and strengthen my front-end fundamentals by building a real-world UI layout **pixel-by-pixel** from scratch.
