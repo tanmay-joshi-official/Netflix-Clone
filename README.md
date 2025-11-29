@@ -57,13 +57,19 @@ https://github.com/user-attachments/assets/c38d92be-c775-438c-bcd2-f63da2ce6510
 
 ## 📁 Project Structure
 
-Assets/
-├── Images/
-└── Videos/
+## 📂 Project Structure
 
-index.html
-style.css
-README.md
+```
+Netflix-Clone/
+│
+├── Assets/
+│   ├── Images/
+│   └── Videos/
+│
+├── index.html
+├── style.css
+└── README.md
+```
 
 ---
 
